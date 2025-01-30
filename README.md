@@ -7,7 +7,7 @@ Front End Developer
 I am ReactJS Front-end developer. Open to opportunities.
 
 *   🧠  I'm learning ReactJS
-*   🤝  I'm open to collaborating on Porjects
+*   🤝  I'm open to collaborating on Projects
 
 ### Skills 
 <p align="left">
